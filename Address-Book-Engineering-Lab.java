@@ -1,14 +1,8 @@
 
-
-/*الاسم :خليل باسل خليل ابو كويك \ شعبة العملي :  103  \شعبة النظري :102 \ID:120254451
-
-الاسم :يوسف عمار خليل ابو كويك \ شعبة العملي :  108  \شعبة النظري :106  \ID:120254444       
-
-الاسم :علاء جمال علي اليازوري   \ شعبة العملي : 107   \شعبة النظري :105 \ID:120259904*/
 package input;
 import java.util.Scanner;
 
-public class khalilbasilkwaik_120254451 {
+public class Address-Book-Engineering-Lab {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
